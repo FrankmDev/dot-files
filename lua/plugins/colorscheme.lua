@@ -17,14 +17,9 @@ return {
         enabled = true,
         indentscope_color = "",
       },
-      -- For more plugins integrations please scroll down (https://github.com/catppuccin/nvim#integrations)
     },
   },
-  {
-    "miikanissi/modus-themes.nvim",
-    name = "modus",
-    priority = 1000,
-  },
+
   {
     "rebelot/kanagawa.nvim",
     name = "kanagawa",
