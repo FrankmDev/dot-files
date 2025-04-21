@@ -53,9 +53,17 @@ return {
       end,
     },
   },
+
   {
     "xiyaowong/transparent.nvim",
   },
+
+  {
+    "rose-pine/neovim",
+    name = "rose-pine",
+  },
+  { "Everblush/nvim", name = "everblush" },
+
   {
     "LazyVim/LazyVim",
     opts = {
